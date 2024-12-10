@@ -47,6 +47,36 @@ List<Map<String, dynamic>> videoPosts = [
     'likes': 342,
     'views': 3332,
   },
+  {
+    'name': '¿Ya llegamos a la India?... umm si',
+    'videoUrl': 'assets/videos/Cielo rosa.mp4',
+    'likes': 342,
+    'views': 3332,
+  },
+  {
+    'name': '¿Ya llegamos a la India?... umm si',
+    'videoUrl': 'assets/videos/cuando ya te la sabes.mp4',
+    'likes': 342,
+    'views': 3332,
+  },
+  {
+    'name': '¿Ya llegamos a la India?... umm si',
+    'videoUrl': 'assets/videos/LA MESA ES DE VIDRIO.mp4',
+    'likes': 342,
+    'views': 3332,
+  },
+  {
+    'name': '¿Ya llegamos a la India?... umm si',
+    'videoUrl': 'assets/videos/Magna.mp4',
+    'likes': 342,
+    'views': 3332,
+  },
+  {
+    'name': '¿Ya llegamos a la India?... umm si',
+    'videoUrl': 'assets/videos/Ya vi es video.mp4',
+    'likes': 342,
+    'views': 3332,
+  },
 
 
 ];
