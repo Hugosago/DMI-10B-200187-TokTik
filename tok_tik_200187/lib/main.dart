@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:tok_tik_200187/config/theme/app_theme.dart';
-import 'package:tok_tik_200187/presentation/providers/discover_provider.dart';
-import 'package:tok_tik_200187/presentation/screens/discover_screens.dart';
+import 'package:tok_tik_200187/config/app_theme.dart';
+import 'package:tok_tik_200187/config/presentation/providers/discover_provider.dart';
+import 'package:tok_tik_200187/config/presentation/screens/discover_screens.dart';
 
 void main() => runApp(const MyApp());
 class MyApp extends StatelessWidget {
@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
           create: (_) => DiscoverProvider()..loadNextPage())
       ],
       child: MaterialApp(
-        title: 'TokTik 200187',
+        title: 'TokTik 210077',
         debugShowCheckedModeBanner: false,
         theme: AppTheme().getTheme(),
         home: const DiscoverScreens(),
